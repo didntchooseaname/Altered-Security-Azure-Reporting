@@ -4,6 +4,10 @@ A generic sysreptor template to write Azure/EntraID related Altered Security's c
 
 [Download](https://github.com/didntchooseaname/Altered-Security-Azure-Reporting/releases)
 
+### How to Use/Import:
+
+![](/demo-assets/import.png)
+
 ---
 
 ### Cover Page:
